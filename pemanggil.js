@@ -21,7 +21,7 @@ if(a_to_vh==false)
 {var encryptedUrl=Base64.encode(a_to_vi);
 var x=Math.floor((Math.random()*5)+ 1);
 var xxx=null;
-if(x=="1"){xxx="2018/03/box-office-movie.html"}
+if(x=="1"){xxx="/2018/03/box-office-movie.html"}
 if(x=="2"){xxx="/2018/03/mathematics-with-mother-science.html"}
 if(x=="3"){xxx="/2018/03/maintain-health-by-running-early.html"}
 if(x=="4"){xxx="/2018/03/struggle-and-get-money.html"}
